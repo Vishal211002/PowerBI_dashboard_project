@@ -39,3 +39,29 @@ Geographical Analysis
 2.	Identify high-performing and low-performing countries in terms of sales
 3.	Identify any geographical factors influencing sales performance.
 
+
+Solution:
+
+
+Customer Analysis
+
+3. What are the average order size and max quantity purchased for different customer segments? What do you conclude ?
+Ans - From the report it is observed that maximum quantity purchased for different customer                
+      segments is approximately 100 times average order size. It means that average order                     
+      size needs to be increased by incorporating low-end customers to increase their                              
+      purchasing power by providing them suitable offers and discounts.
+   
+Operational Analysis
+
+2.How does shipping time affect customer satisfaction and repeat purchases?
+Ans - From the report it is observed that average shipping time is 5 days. A little decrease in               
+      shipping time is recommended to increase customer attraction. Fast and efficient                              
+      delivery would definitely increases customer satisfaction and  purchasing power.
+
+Geographical Analysis
+
+3.Identify any geographical factors influencing sales performance.
+Ans- Geographical factors such as undeveloped countries having inefficient distribution   
+     channels due to poor transport system and unmanageable delivery system would    
+     decreases the sales performance to a greater extent. From the report it is observed that    
+     sales performance is low in Africa while Australia and India would greatly increases the sales performance.
