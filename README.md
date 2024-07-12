@@ -46,10 +46,9 @@ Solution:
 Customer Analysis
 
 3. What are the average order size and max quantity purchased for different customer segments? What do you conclude ?
-Ans - From the report it is observed that maximum quantity purchased for different customer                
-      segments is approximately 100 times average order size. It means that average order                     
-      size needs to be increased by incorporating low-end customers to increase their                              
-      purchasing power by providing them suitable offers and discounts.
+Ans - From the report it is observed that maximum quantity purchased for different customer segments is approximately 100 times average order size.
+It means that average order size needs to be increased by incorporating low-end customers to increase their purchasing power by providing them
+suitable offers and discounts.
    
 Operational Analysis
 
